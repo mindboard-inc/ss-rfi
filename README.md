@@ -1,4 +1,4 @@
-# ss-rfi
+# README
 SS-RFI 70SBUR19I00000023
 
 Discuss the size, scope and complexity of IT projects developed using DevSecOps CI/CD model in an Agile environment and projects developed using the tech stack in Appendix A and below:
