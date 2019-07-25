@@ -15,12 +15,16 @@ Discuss the size, scope and complexity of IT projects developed using DevSecOps 
 
     5.1.	Programming Languages
       (vRate/VendorVerifier Scoring)
+      
     5.2.	Microservices and Containerized Services Platforms
       (vRate)
+      
     5.3.	Message Streaming
       N/A - Partners?
+      
     5.4.	CI/CD Pipeline Automation
       N/A - Partners?
+      
     5.5.	AI/ML platforms and integration
       (vRate/VendorVerifier Scoring)
 
