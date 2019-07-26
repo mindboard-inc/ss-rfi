@@ -20,10 +20,10 @@ Discuss the size, scope and complexity of IT projects developed using DevSecOps 
       (vRate)
       
     5.3.	Message Streaming
-      N/A - Partners?
+      (DB2 <-> Kafka publish <-> Streamset <-> HDFS integration/flow)
       
     5.4.	CI/CD Pipeline Automation
-      N/A - Partners?
+      (CI/CD pipeline automation)
       
     5.5.	AI/ML platforms and integration
       (vRate/VendorVerifier Scoring)
