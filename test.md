@@ -296,6 +296,9 @@ be necessary. Only include what is need and remove everything else.
     opportunities; and how the business' weaknesses could expose it to
     threats.
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 +---------------------------+---------------------+---------------------------+
 | STRENGTHS                 | [\[CHART\]]{.chart} | WEAKNESSES                |
 |                           |                     |                           |
